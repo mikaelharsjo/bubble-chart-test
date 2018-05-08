@@ -1,0 +1,11 @@
+{
+  "name": "bubble-chart-test",
+  "dependencies": {
+    "@voidrayco/network-bubble-chart": "voidrayco/network-bubble-chart",
+    "lodash": "^4.17.10",
+    "webpack": "^4.8.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.3"
+  }
+}
